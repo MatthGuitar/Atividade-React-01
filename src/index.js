@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Header from './Header'
+import NavBar from './NavBar'
+import Article from './Article'
+import Aside from './Aside'
+import Footer from './Footer'
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
